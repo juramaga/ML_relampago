@@ -7,3 +7,4 @@ astroML
 keras
 pandas
 seaborn
+tensorflow
